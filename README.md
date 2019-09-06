@@ -1,5 +1,7 @@
 # Brotquotes
 
+!quote add/remove	Zitate hinzufügen, entfernen und anzeigen.
+
 !quote 1  
 „Alles für die Katze, alles für das Brot!“  
 BVBrow 04.07.19
