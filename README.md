@@ -7,6 +7,8 @@ Mit dem Befehl `!quote <Nummer>` wird der Quote mit der entsprechenden Nummer in
 
 Der Befehl hat einen globalen Timer. Sollte kurz vorher der Befehl im Chat verwendet worden sein kann es vorkommen, dass der Befehl ignoriert wird. In diesem Fall muss kurz gewartet werden und dann den Befehl wiederholen.
 
+Falls wenn ein neuer Quote in die Liste hinzugefügt werden soll, einfach die Mods fragen. Die Liste wird auch zeitnah um den neuen Quote ergänzt.
+
 
 ## Liste
 
