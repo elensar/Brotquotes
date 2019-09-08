@@ -1,6 +1,14 @@
 # Brotquotes
 
-!quote add/remove	Zitate hinzufügen, entfernen und anzeigen.
+## Allgemeines
+
+Mit dem Befehl `!quote` wird ein zufälliger Quote aus der Liste in den Chat geschrieben.  
+Mit dem Befehl `!quote <Nummer>` wird der Quote mit der entsprechenden Nummer in den Chat geschrieben.
+
+Der Befehl hat einen globalen Timer. Sollte kurz vorher der Befehl im Chat verwendet worden sein kann es vorkommen, dass der Befehl ignoriert wird. In diesem Fall muss kurz gewartet werden und dann den Befehl wiederholen.
+
+
+## Liste
 
 !quote 1  
 „Alles für die Katze, alles für das Brot!“  
