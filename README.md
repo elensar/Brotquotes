@@ -70,3 +70,7 @@ Joolz beim Gears 5 spielen.
 !quote 17  
 "Wenn sie im Feuer stirbt ist das okay."  
 Mina - Life is Strange 2
+
+!quote 18  
+"Kannst du nicht hier irgendwo hinpinkeln?"  
+Jüles zu Mina bei Blair Witch  
