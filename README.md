@@ -66,3 +66,7 @@ Jules, 28.08.19, Control “i fink u freaky and i like u a lot“
 !quote 16  
 „Smooth AM“  
 Joolz beim Gears 5 spielen.
+
+!quote 17  
+"Wenn sie im Feuer stirbt ist das okay."  
+Mina - Life is Strange 2
