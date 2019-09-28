@@ -7,7 +7,7 @@ Mit dem Befehl `!quote <Nummer>` wird der Quote mit der entsprechenden Nummer in
 
 Der Befehl hat einen globalen Timer. Sollte kurz vorher der Befehl im Chat verwendet worden sein kann es vorkommen, dass der Befehl ignoriert wird. In diesem Fall muss kurz gewartet werden und dann den Befehl wiederholen.
 
-Falls wenn ein neuer Quote in die Liste hinzugefügt werden soll, einfach die Mods fragen. Die Liste wird auch zeitnah um den neuen Quote ergänzt.
+Falls ein neuer Quote in die Liste hinzugefügt werden soll, einfach die famosen Mods fragen. Die Liste wird auch zeitnah um den neuen Quote ergänzt.
 
 
 ## Liste
@@ -74,3 +74,16 @@ Mina - Life is Strange 2
 !quote 18  
 "Kannst du nicht hier irgendwo hinpinkeln?"  
 Jüles zu Mina bei Blair Witch  
+
+!quote 19  
+"Jetzt können wir Rainer beim verhungern zusehen!"  
+Mina bei Planet Zoo
+
+!quote 20  
+"Kann ich jetzt einen neuen Jules kaufen?"  
+Mina - Planet Zoo Beta
+
+
+## Credits
+Die initiale Liste wurde mit der Hilfe von der bezaubernden und lieben m0na aus der BuV Community erstellt.  
+Ein herzlichen Dank für die Hilfe.
