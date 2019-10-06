@@ -83,6 +83,10 @@ Mina bei Planet Zoo
 "Kann ich jetzt einen neuen Jules kaufen?"  
 Mina - Planet Zoo Beta
 
+!quote 21  
+"Es matscht auch mehr wenn du da triffst."  
+Mina - Resident Evil 7
+
 
 ## Credits
 Die initiale Liste wurde mit der Hilfe von der bezaubernden und lieben m0na aus der BuV Community erstellt.  
