@@ -87,6 +87,10 @@ Mina - Planet Zoo Beta
 "Es matscht auch mehr wenn du da triffst."  
 Mina - Resident Evil 7
 
+!quote 22  
+"Warum kann ich ich nicht auf die Oma schießen?"  
+Julius - Resident Evil 7
+
 
 ## Credits
 Die initiale Liste wurde mit der Hilfe von der bezaubernden und lieben m0na aus der BuV Community erstellt.  
