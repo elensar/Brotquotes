@@ -94,6 +94,10 @@ Julius - Resident Evil 7
 !quote 23  
 Mina "Wie heißen diese japanischen Gedichte?" Julius: "Glückskeks"
 
+!quote 24  
+"Jetzt muss ich meine Hose wieder zumachen"  
+Julius vor spontanem Tanz
+
 
 ## Credits
 Die initiale Liste wurde mit der Hilfe von der bezaubernden und lieben m0na aus der BuV Community erstellt.  
