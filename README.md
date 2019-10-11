@@ -91,6 +91,9 @@ Mina - Resident Evil 7
 "Warum kann ich ich nicht auf die Oma schießen?"  
 Julius - Resident Evil 7
 
+!quote 23  
+Mina "Wie heißen diese japanischen Gedichte?" Julius: "Glückskeks"
+
 
 ## Credits
 Die initiale Liste wurde mit der Hilfe von der bezaubernden und lieben m0na aus der BuV Community erstellt.  
