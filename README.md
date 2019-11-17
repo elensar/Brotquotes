@@ -102,6 +102,30 @@ Julius vor spontanem Tanz
 "Ich frag mich schon die ganze Zeit wann die Oma endlich Action kriegt."  
 Julius - Resident Evil 7
 
+!quote 26  
+"Ab jetzt sind wir stealthy as fuck!"  
+Jules - GTFO
+
+!quote 27  
+"Der Fuchs hat einen Hut auf!"  
+Rainerzufall1986 - Agar.io
+
+!quote 28  
+"Ich hatte gerade das Pferderennen meines Lebens und eine Sekunde vor der Ziellinie erschießt mich so ein Hurensohn"  
+Mina - RDR2
+
+!quote 29  
+"Du musst dein Gerät rausholen..."  
+Mina - The Beast Inside
+
+!quote 30  
+"Mini, ich will nackt mit dir sein und wir haben beide nur Ponchos an!" - "Später..."  
+Jules - Star Wars Jedi: Fallen Order
+
+!quote 31  
+"Ich muss echt mal aufhören zu sterben. Das wär mir wichtig."  
+Jules - Star Wars Jedi: Fallen Order
+
 
 ## Credits
 Die initiale Liste wurde mit der Hilfe von der bezaubernden und lieben m0na aus der BuV Community erstellt.  
