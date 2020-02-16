@@ -139,5 +139,5 @@ Mina bei der Abmoderation
 Jules - Greedfall
 
 ## Credits
-Die initiale Liste wurde mit der Hilfe von der bezaubernden und lieben m0na aus der BuV Community erstellt.  
-Ein herzlichen Dank für die Hilfe.
+Die initiale Liste wurde mit der Hilfe von der bezaubernden und lieben Mona aus der BuV Community erstellt.  
+Ein herzlichen Dank für ihre Hilfe.
