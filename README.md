@@ -138,6 +138,10 @@ Mina bei der Abmoderation
 "Ich find sie eigentlich echt süß wenn man ihr... richtige Kleidung anzieht."  
 Jules - Greedfall
 
+!quote 35  
+"Jetzt könnte noch jemand schnell Freddy töten, dann ist alles gut."  
+Jules
+
 ## Credits
 Die initiale Liste wurde mit der Hilfe von der bezaubernden und lieben Mona aus der BuV Community erstellt.  
 Ein herzlichen Dank für ihre Hilfe.
