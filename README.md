@@ -126,6 +126,17 @@ Jules - Star Wars Jedi: Fallen Order
 "Ich muss echt mal aufhören zu sterben. Das wär mir wichtig."  
 Jules - Star Wars Jedi: Fallen Order
 
+!quote 32  
+"Ich kann deine Leiche nicht aufheben..."  
+Mina - Red Dead Redemption
+
+!quote 33  
+"Das ist mein privates Arschloch"  
+Mina bei der Abmoderation
+
+!quote 34  
+"Ich find sie eigentlich echt süß wenn man ihr... richtige Kleidung anzieht."  
+Jules - Greedfall
 
 ## Credits
 Die initiale Liste wurde mit der Hilfe von der bezaubernden und lieben m0na aus der BuV Community erstellt.  
