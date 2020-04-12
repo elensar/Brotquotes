@@ -142,6 +142,14 @@ Jules - Greedfall
 "Jetzt könnte noch jemand schnell Freddy töten, dann ist alles gut."  
 Jules
 
+!quote 36  
+"Hab ich's jetzt gebroked?"  
+Jules - Greedfall
+
+!quote 37  
+"Und ich bin sehr Käuflich"  
+Jules - Greedfall
+
 ## Credits
-Die initiale Liste wurde mit der Hilfe von der bezaubernden und lieben Mona aus der BuV Community erstellt.  
+Die initiale Liste wurde mit der Hilfe von der bezaubernden und lieben Sternchenkeks aus der BuV Community erstellt.  
 Ein herzlichen Dank für ihre Hilfe.
