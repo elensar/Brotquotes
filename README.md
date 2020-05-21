@@ -150,6 +150,14 @@ Jules - Greedfall
 "Und ich bin sehr Käuflich"  
 Jules - Greedfall
 
+!quote 38  
+"Kann ich Nico essen...?"  
+Mina bei Jules Stream Avatars Spielereien
+
+!quote 39  
+"Leichter getan als gesagt!"  
+Jules - I Am Bread
+
 ## Credits
 Die initiale Liste wurde mit der Hilfe von der bezaubernden und lieben Sternchenkeks aus der BuV Community erstellt.  
 Ein herzlichen Dank für ihre Hilfe.
