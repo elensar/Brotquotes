@@ -158,6 +158,10 @@ Mina bei Jules Stream Avatars Spielereien
 "Leichter getan als gesagt!"  
 Jules - I Am Bread
 
+!quote 40  
+"Ich muß Leon den Keks geben." "Nein, ich muß Leon verprügeln!"  
+Mina und Jules bei The Escapists 2
+
 ## Credits
 Die initiale Liste wurde mit der Hilfe von der bezaubernden und lieben Sternchenkeks aus der BuV Community erstellt.  
 Ein herzlichen Dank für ihre Hilfe.
