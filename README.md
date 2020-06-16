@@ -162,6 +162,15 @@ Jules - I Am Bread
 "Ich muß Leon den Keks geben." "Nein, ich muß Leon verprügeln!"  
 Mina und Jules bei The Escapists 2
 
+!quote 41: ,,Physik wird ignoriert, wir machen´s kompliziert."  
+Jules bei Half life 2
+
+!quote 42: "Da sind meine Legionäre, ihr Fucker"  
+Julius Maximus Buschus, Civ 6
+
+!quote 43: "Morgen werde ich mir Vanillepudding machen. Ich werde davor stehen und mich lieben"  
+Jules beim stream ohne komischen Sexkram
+
 ## Credits
 Die initiale Liste wurde mit der Hilfe von der bezaubernden und lieben Sternchenkeks aus der BuV Community erstellt.  
 Ein herzlichen Dank für ihre Hilfe.
